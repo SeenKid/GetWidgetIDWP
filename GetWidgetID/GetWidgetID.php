@@ -2,7 +2,7 @@
 
 /**
 * Plugin Name: GetWidgetID
-* Author: Yann Berlemont - Creative Technologies SA
+* Author: SeenKid
 * Version: 1.1
 * Description: Montre l'ID des widgets
 * Plugin URI: https://github.com/SeenKid/GetWidgetIDWP
