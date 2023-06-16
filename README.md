@@ -1,0 +1,3 @@
+# GetWidgetIDWP
+
+plugin for wordpress
